@@ -1,11 +1,17 @@
 # YOLOv8-waste
 Waste material detector use case of YOLOv8s
 
-Please find here the code for the inference on the test data for YOLOv5 and YOLOv8
+In this repository, you can find the test data and inference on it, the training and validation data and the google collab projects for both v5 and v8.
 
-Also find the links to the google collab pages for trianing data:
+Also find here the links to the deployed models and their training google collab pages (for duplicity):
 
-YOLOv5: https://colab.research.google.com/drive/1iPPhlTjzn2DOKaXiiOicdJfLgl7pT6gW?usp=drive_link
+YOLOv5:
+deployed model: (https://universe.roboflow.com/thesis-ejjcj/waste-hsysm/model/5?image=https%3A%2F%2Fsource.roboflow.com%2FMVo8496K6TWVLL8KMp4RuYQRFlo2%2F2rNg1wcmI0o1KJoO3PWp%2Foriginal.jpg)
 
-YOLOv8: https://colab.research.google.com/drive/1KtXNDYBUjKM4xbneAe5OqZ0DNZ1yQh2-?usp=drive_link
+Google collab: (https://colab.research.google.com/drive/1_JPGKhVcxOv8RjmhxLuYXmwPS9A_7yCK?usp=drive_link)
+
+
+YOLOv8:
+
+
 
