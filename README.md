@@ -6,7 +6,7 @@ In this repository, you can find the test data and inference on it, the training
 Also find here the links to the training google collab pages (for duplicity) and the deployed model (version 4 for YOLOv5, and version 5 for YOLOv8):
 
 YOLOv5:
-Google collab: (https://colab.research.google.com/drive/1_JPGKhVcxOv8RjmhxLuYXmwPS9A_7yCK?usp=drive_link)
+Google collab: (https://colab.research.google.com/drive/1_wpbljgY_CXq3iuDO-RGjq5Dy9VudOVR#scrollTo=uDxebz13RdRA)
 
 
 YOLOv8:
